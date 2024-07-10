@@ -1,5 +1,5 @@
 # enlight-data
-Datasets that accompanies the ENLIGHT manuscript, see https://www.biorxiv.org/content/10.1101/2022.02.27.481627.  
+Datasets that accompanies the ENLIGHT manuscript, see (https://www.cell.com/med/fulltext/S2666-6340(22)00455-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS266663402200455X%3Fshowall%3Dtrue).  
 Each file contains a raw mRNA matrix of size #genes*#patients. Gene names are given in HUGO format, column names are patient IDs.  
 Dataset names corresponds to the names in the manuscript (see Table S1).  
 Patient IDs corresponds to the "Sample ID" column in "drug_response_classifications.csv".  
